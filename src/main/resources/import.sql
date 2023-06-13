@@ -1,0 +1,1 @@
+insert into TBL_ANUNCIO ( ANUNCIANTE, TIPO, URL, PRECO) values( 'Americanas', 'tv', 'https://i.ytimg.com/vi/qZX2mfbdtZc/maxresdefault.jpg', 1345.5);
